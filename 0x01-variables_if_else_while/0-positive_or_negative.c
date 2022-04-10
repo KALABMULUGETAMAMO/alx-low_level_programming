@@ -6,13 +6,13 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-./betty-doc.pl main.c
 
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	/* your code goes there */
+./betty-doc.pl main.c
 if (n > 0)
 {
 printf("%i is positive\n", n);
