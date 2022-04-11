@@ -1,4 +1,4 @@
-/* 
+/*
  * auth: kalab mamo
  */
 
@@ -13,11 +13,11 @@ int main(void)
 {
 	long number;
 
-	for (number = '0'; number <= 10; number++)
-			putchar(number);
+	for (number = 0; number < 10; number++)
+			printf ("%ld", number);
+printf("\n");
 
 
-	putchar('\n');
 
 	return (0);
 }
