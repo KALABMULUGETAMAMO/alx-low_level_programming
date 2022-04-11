@@ -7,7 +7,10 @@
 *
 */
 
-/* main - betty style doc for function main goes there */
+/**
+* main - betty style doc for function main goes there 
+* Return: Always 0
+*/
 int main(void)
 {
 int n;
