@@ -1,23 +1,24 @@
 /*
- * auth: kalab mamo
+ * File: 5-print_numbers.c
+ * Auth: kalab Mamo
  */
 
 #include <stdio.h>
 
 /**
- * main - Prints the alphabet in lowercase, except for q and e.
+ * main - Prints all single digit numbers of base 10 starting from 0.
  *
  * Return: Always 0.
  */
 int main(void)
 {
-	int number;
+	int num;
 
-	for (number = 0; number < 10; number++)
-			printf("%d", number);
-printf("\n");
+	for (num = 0; num < 10; num++)
+		printf("%d", num);
 
-
+	printf("\n");
 
 	return (0);
 }
+
