@@ -2,12 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* more headers goes there
+* main - more headers goes there
 * main - tells the number is negative or positive or zero
 *
 */
 
-/* betty style doc for function main goes there */
+/* main - betty style doc for function main goes there */
 int main(void)
 {
 int n;
