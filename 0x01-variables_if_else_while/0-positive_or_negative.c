@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there
-*main - telss the number is negative or positive or zero
+* main - telss the number is negative or positive or zero
 *
- */
+*/
 
 /* betty style doc for function main goes there */
 int main(void)
