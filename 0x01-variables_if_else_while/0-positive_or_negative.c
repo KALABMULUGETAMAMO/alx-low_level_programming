@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there
-* main - telss the number is negative or positive or zero
+/**
+* more headers goes there
+* main - tells the number is negative or positive or zero
 *
 */
 
